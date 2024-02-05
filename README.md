@@ -21,27 +21,32 @@ Before running the script, make sure you have the following installed:
 
    ```bash
    git clone https://github.com/Razib91lightspeed/interview_challenge.git
+   ```
 
 
 2. Go to the interview_challenge direcotry
 
    ```bash
    cd interview_challenge
+   ```
 
 3. Run the script
 
    ```bash
    pytest test_cargotec_careers.py
+   ```
 
 3. Go to test directory
 
    ```bash
    cd test
+   ```
 
 4. Varify CVS file content
 
    ```bash
    cat cargotec_trainee_positions.csv
+   ```
 
 5. Open CVS file to check if all job listed or not
 
