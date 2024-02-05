@@ -41,7 +41,7 @@ if open_positions_button:
     # Wait for the page to load
     time.sleep(3)
 
-    # Switch to the new tab or window (assuming the new page opens in a new tab or window)
+    # Switch to the new tab or window
     driver.switch_to.window(driver.window_handles[-1])
 
     # Locate the search boxes by class name
