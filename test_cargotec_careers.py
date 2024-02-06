@@ -127,7 +127,7 @@ if open_positions_button:
 # Define a pytest test function
 @pytest.mark.cargotec_test
 def test_cargotec():
-    # Add your test assertions here
+
     pass
 
 if __name__ == "__main__":
