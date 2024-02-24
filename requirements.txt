@@ -1,2 +1,2 @@
-brew install --cask --no-quarantine google-chrome
+selenium
 Python 3.11
